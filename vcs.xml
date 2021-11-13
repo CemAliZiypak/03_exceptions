@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/fhc02konf21/Konf_Bruch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fhc02konf21/CoronoManagement.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\CemAli\IdeaProjects" />
